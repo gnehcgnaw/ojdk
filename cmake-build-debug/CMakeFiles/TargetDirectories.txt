@@ -1,0 +1,3 @@
+/Users/gnehcgnaw/WorkSpaces/OpenSourceProject/jdk12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gnehcgnaw/WorkSpaces/OpenSourceProject/jdk12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gnehcgnaw/WorkSpaces/OpenSourceProject/jdk12/cmake-build-debug/CMakeFiles/jdk12.dir
